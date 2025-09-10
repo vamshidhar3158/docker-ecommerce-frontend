@@ -14,3 +14,4 @@ Currently, two official plugins are available:
 "# one" 
 "# docker-ecommerce-frontend-" 
 "# docker-ecommerce-frontend-" 
+"# docker-ecommerce-frontend-" 
