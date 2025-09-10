@@ -16,3 +16,4 @@ Currently, two official plugins are available:
 "# docker-ecommerce-frontend-" 
 "# docker-ecommerce-frontend-" 
 "# vamshidhar3158-docker-ecommerce-frontend" 
+"# vamshidhar3158-docker-ecommerce-frontend" 
